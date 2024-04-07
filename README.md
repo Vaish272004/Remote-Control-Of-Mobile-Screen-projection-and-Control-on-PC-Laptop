@@ -6,3 +6,5 @@ Mobile operation control.
 Mobile screen projection on PC. 
 Backend software using python to capture and process images.
 Defining & executing basic test cases to test above mentioned features automatically.
+To make the automation process more seamless I have also coded two shortcut buttons with help of python ,where one could project mobile screen projection on Laptop/PC and another could capture and process that  projection , hence these processes can be done just by clicking on one of the buttons as per your choice.
+
